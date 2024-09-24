@@ -73,8 +73,9 @@ nav a:hover {
 }
 
 .featured-image {
-  width: 100%;
+  width: 55%;
   max-height: 300px;
+  border-radius: 1rem;
 
   object-fit: cover;
   object-position: center;
